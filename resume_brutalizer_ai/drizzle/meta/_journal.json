@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781520138487,
+      "tag": "0000_eminent_vector",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781520231647,
+      "tag": "0001_cynical_rockslide",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1782043392812,
+      "tag": "0002_petite_hobgoblin",
+      "breakpoints": true
+    }
+  ]
+}
