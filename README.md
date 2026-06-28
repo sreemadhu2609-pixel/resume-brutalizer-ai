@@ -6,4 +6,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript )](https://www.typescriptlang.org )
 [![Express](https://img.shields.io/badge/Express-4-black?style=for-the-badge&logo=express )](https://expressjs.com )
 [![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql )](https://www.mysql.com )
+[![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange?style=for-the-badge&logo=google )](https://ai.google.dev )
+[![tRPC](https://img.shields.io/badge/tRPC-11-blue?style=for-the-badge )](https://trpc.io )
+
+🚀 AI-powered tools for career growth in the Indian tech market.
+
 
